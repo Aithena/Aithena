@@ -1,11 +1,11 @@
 ### Hi, I'm [liqingyun](https://aithena.github.io/resume-lite/). 👋
 
-- 🔭 I’m now working for Alibaba.
-- 🌱 I’m a pupil of front-end learning. 
-- 🤔 I’m currently coding in Javascript PHP and C#.
-- ❤️ I like playing Onmyoji 🌩 and Crazy-racing Kart-rider 🚗.
+- 🔭 I’m now working for hnjing.com.
+- 🌱 I have ten years of experience in the front end. 
+- 🤔 I’m currently coding in Javascript, Node and Vue.
+- ❤️ I like traveling and am a travel lover 🚗.
 - 💬 Be free to ask me about anything [here](https://github.com/Aithena/Aithena/issues).
-- ⚒️ ....
+- ⚒️ I hope to study and make progress with you.
 
 
 ### Languages and Tools:
